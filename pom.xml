@@ -784,7 +784,7 @@
 		<freemaker.version>2.3.23</freemaker.version>
 		<oracle.version>10.2.0.4.0</oracle.version>
 		<jython.version>2.7.0</jython.version>
-		<jgroups.version>3.6.6.Final</jgroups.version>
+		<jgroups.version>3.6.10.Final</jgroups.version>
 		<infinispan.version>7.2.5.Final</infinispan.version>
 		<jbossjts.version>4.16.6.Final</jbossjts.version>
 		<ehcache.version>2.6.11</ehcache.version>
